@@ -1,0 +1,66 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Curta!" tvg-logo="http://i.imgur.com/vTA9XTt.png" group-title="Documentários",Curta!
+http://listaiptv.brcs.ml:8080/SD_CURTA/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Lifetime [Brazil]" tvg-logo="http://s20.postimg.org/y64l1rxrh/Lifetime.png" group-title="Documentários",Lifetime
+http://listaiptv.brcs.ml:8080/SD_LIFETIME/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="TruTV" tvg-logo="http://s20.postimg.org/8om6i6g19/Tru_TV.png" group-title="Documentários",TruTV
+http://listaiptv.brcs.ml:8080/SD_TRUTV/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="http://s27.postimg.org/fk9cp3g7n/Arte_1.png" group-title="Documentários",Arte 1
+http://listaiptv.brcs.ml:8080/SD_ARTE1/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="FoxLife" tvg-logo="http://s20.postimg.org/wnak0ivex/Fox_Life.png" group-title="Documentários",Fox Life
+http://listaiptv.brcs.ml:8080/SD_FOX_LIFE/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="A&amp;E" tvg-logo="http://s32.postimg.org/3xpsuoa7p/A_amp_E2.png" group-title="Documentários",A&E
+http://listaiptv.brcs.ml:8080/SD_AE/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://s20.postimg.org/53dvxgbk9/TLC.png" group-title="Documentários",TLC
+http://listaiptv.brcs.ml:8080/SD_TLC/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="E!" tvg-logo="http://s29.postimg.org/vn86hvuef/E_Entertainment.png" group-title="Documentários",E!
+http://listaiptv.brcs.ml:8080/SD_E!/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="Documentários",Animal Planet
+http://listaiptv.brcs.ml:8080/SD_ANIMAL_PLANET/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="Documentários",National Geographic
+http://listaiptv.brcs.ml:8080/SD_NAT_GEO/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-logo="http://s20.postimg.org/u148b2iyx/Nat_Geo_Wild.png" group-title="Documentários",Nat Geo Wild
+http://listaiptv.brcs.ml:8080/SD_NAT_GEO_WILD/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="History" tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="Documentários",History
+http://listaiptv.brcs.ml:8080/SD_HISTORY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://s32.postimg.org/hzun1s1md/history2.png" group-title="Documentários",H2
+http://listaiptv.brcs.ml:8080/SD_H2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://s13.postimg.org/msb5b9u7r/discchannel.png" group-title="Documentários",Discovery Channel
+http://listaiptv.brcs.ml:8080/SD_DISCOVERY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo
+http://listaiptv.brcs.ml:8080/SD_DISCOVERY_TURBO/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-logo="http://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Documentários",ID - Investigação Discovery
+http://listaiptv.brcs.ml:8080/SD_ID/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://s20.postimg.org/4tagkxsw9/Discovery_Science.png" group-title="Documentários",Discovery Science
+http://listaiptv.brcs.ml:8080/SD_DISCOVERY_SCIENCE/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Discovery Home &amp; Health" tvg-logo="http://s20.postimg.org/y4mbdoryh/Discovery_Home_Health.png" group-title="Documentários",Discovery Home & Health
+http://listaiptv.brcs.ml:8080/SD_DISCOVERY_HOMEHEALTH/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentários",Discovery Civilization
+http://listaiptv.brcs.ml:8080/SD_DISCOVERY_CIVILIZATION/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="http://s20.postimg.org/kb2k2dor1/Discovery_World.png" group-title="Documentários",Discovery World
+http://listaiptv.brcs.ml:8080/HD_DISCOVERY_WORLD/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://s20.postimg.org/hypyr1mrt/Discovery_Theater.png" group-title="Documentários",Discovery Theater
+http://listaiptv.brcs.ml:8080/HD_DISCOVERY_THEATER/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Discovery Showcase" tvg-logo="http://s24.postimg.org/5kqkuwbth/hd_showcase_White_Bkg_lrg.png" group-title="Documentários",Discovery Showcase
